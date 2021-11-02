@@ -9,5 +9,9 @@
 <body>
     <h3>Materi Git Remote</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa sequi cupiditate dignissimos, repudiandae quisquam eum nobis veritatis aut libero cumque quia! Totam provident dolores voluptatem odit eos exercitationem maiores voluptatum.</p>
+    <ul>
+        <li>Materi 1</li>
+        <li>Materi 2</li>
+    </ul>
 </body>
 </html>
